@@ -1,4 +1,4 @@
-# HP-Pavilion-24-b212d-Z8G27AA-AKL
+# HP-Pavilion-24-b212d-Z8G27AA-AKL-AIO
 Hackintosh EFI Complete
 HP Pavilion 24-b212d Z8G27AA#AKL
 CPU :Intel Core i5 7400T 2.4GHz
